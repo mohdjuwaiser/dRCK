@@ -1,0 +1,49 @@
+body {
+    margin: 5px;
+    width: fit-content;
+    min-width: 200px;
+    font-family: Raleway, serif;
+    alignment: center;
+}
+
+#title {
+    margin-left: 25px;
+}
+
+h6 {
+    margin: 20px 10px;
+}
+
+hr {
+    font-weight: bold !important;
+    color: white !important;
+}
+
+#onBtn  {
+    background-color: #222222;
+}
+
+#offBtn {
+    background-color: white;
+    border: 1px solid black;
+}
+
+.radio-btn {
+    width: 50px;
+    height: 50px;
+    border-radius: 50% !important;
+    margin: 5px;
+}
+
+.tick {
+    width: 45px;
+    height: 45px;
+}
+
+#on {
+    display: block;
+}
+
+#off {
+    display: none;
+}

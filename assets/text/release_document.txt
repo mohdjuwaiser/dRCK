@@ -1,0 +1,8 @@
+v1.0.1
+Optimize for Google search and  Wikipedia.
+
+v1.0.2
+Update Google UI, add support to Google Help
+
+v1.0.3
+Disable on Google Maps

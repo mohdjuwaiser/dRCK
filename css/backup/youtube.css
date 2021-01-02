@@ -1,0 +1,110 @@
+/****** youtube home page ******/
+
+/* top bars */
+#masthead, #masthead > #container, #masthead > #container *, #masthead > #container > #end, #masthead > #container > #end * {
+    background-color: #2B2B2B !important;
+    opacity: unset !important;
+}
+
+/* search bar */
+#container, #container *, #search-icon-legacy, #search-icon-legacy * {
+    background-color: #454545 !important;
+}
+
+/*#search {*/
+    /*color: white !important;*/
+    /*text-decoration-color: white !important;*/
+/*}*/
+
+/* search result drop down */
+.gssb_e {
+    background-color: #393939 !important;
+}
+
+/* search result drop down select */
+.gssb_i, .gssb_i * {
+    background-color: #121212 !important;
+}
+
+/* main page*/
+#page * {
+    background-color: #393939 !important;
+}
+
+/* side bar under hamburger icon*/
+#guide-container, #guide-container * {
+    background-color: #2B2B2B !important;
+}
+
+/* side bar under hamburger icon on select */
+#guide-container > div > ul > li > div > ul > li:hover *,               /* top */
+#guide-container > div > ul > li > div > ul > div > div > li:hover *,   /* library */
+#guide-channels > li:hover * {                                          /* subscriptions */
+    background-color: #121212 !important;
+}
+
+/* title and channel text */
+a.yt-ui-ellipsis.yt-ui-ellipsis-2.yt-uix-sessionlink.spf-link, a.yt-uix-sessionlink.spf-link {
+    color: #81b8ed !important;
+}
+
+/* title and channel text visited */
+a.yt-ui-ellipsis.yt-ui-ellipsis-2.yt-uix-sessionlink.spf-link:visited, a.yt-uix-sessionlink.spf-link:visited {
+    color: #b4b7ff !important;
+}
+
+/* video direct link */
+.yt-uix-redirect-link, .yt-uix-redirect-link * {
+    color: darkgreen !important;
+}
+
+/* subscribe button */
+#subscribe-button > ytd-subscribe-button-renderer > paper-button > yt-formatted-string,
+#subscribe-button > ytd-subscribe-button-renderer > paper-button > yt-formatted-string > span {
+    background-color: transparent !important;
+    color: white !important;
+}
+
+/* accounts drop down */
+.yt-masthead-account-picker-option.yt-masthead-account-picker-user-option, .yt-masthead-account-picker.yt-uix-clickcard-card-content, .yt-masthead-account-picker.yt-uix-clickcard-card-content * {
+    background-color: #2B2B2B !important;
+}
+
+/* accounts drop down on select */
+#yt-masthead-multilogin > a:hover, #yt-masthead-multilogin > a:hover * {
+    background-color: #121212 !important;
+}
+
+/* notification hover */
+#yt-masthead-notifications-content > ol > li:hover * {
+    background-color: #121212 !important;
+}
+
+/****** youtube video page ******/
+
+/* comment box */
+#comment-simplebox > div.comment-simplebox-frame, #comment-simplebox > div.comment-simplebox-frame * {
+    background-color: #454545 !important;
+}
+
+/* comment body */
+#watch7-main, #watch7-main * {
+    background-color: #2B2B2B !important;
+}
+
+/****** youtube channel ******/
+
+/* banner setting icon */
+#c4-header-bg-container > span {
+    background-color: transparent !important;
+}
+
+/* "what to watch next" edit button */
+#c4-welcome-editor > div.yt-uix-inlineedit-view-container > div > div.c4-module-editor-actions > button {
+    background-color: #454545 !important;
+}
+
+/* related channel enable/disable button */
+#related-channels-sidebar > div > form > div > div > button, #related-channels-sidebar > div > form > div > div > button > * {
+    background-color: #454545 !important;
+}

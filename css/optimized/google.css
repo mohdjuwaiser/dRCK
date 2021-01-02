@@ -1,0 +1,176 @@
+/* other extensions' popup is unchanged */
+div[role=alertdialog], div[role=alertdialog] div {
+    background-color: white !important;
+}
+
+/*********** ALL ***********/
+
+/* google search */
+#tsf > div.tsf-p > div.jsb > center > input[type="submit"] {
+    color: #2B2B2B !important;
+}
+
+/* "i'm feeling lucky" */
+.gbqfba.gbqfba-hvr, .gbqfba.gbqfba-hvr *, .gbqfba.gbqfba-hvr * * {
+    color: #2B2B2B !important;
+    background-color: #f1f1f1 !important;
+}
+
+span._xdb a.fl {
+    color: #81b8ed !important;
+}
+
+span._xdb a.fl:visited {
+    color: #b4b7ff !important;
+}
+
+/* search bar */
+.gstl_0.sbib_a, .gstl_0.sbib_a *, #sfdiv, #_fZl, #_fZl * {
+    background-color: #454545 !important;
+}
+
+/* google search list drop-down */
+.sbdd_b, .sbdd_b * {
+    background-color: #393939 !important;
+    z-index: -1 !important;
+}
+
+/* google search list drop-down on select */
+.sbsb_c.gsfs.sbsb_d, .sbsb_c.gsfs.sbsb_d * {
+    background-color: #121212 !important;
+}
+
+/* "people also ask" arrow */
+._Zgf {
+    background-color: transparent !important;
+}
+
+/* google apps title box, bell notification */
+.gb_b.gb_cc, .gb_Nc.gb_Oc.gb_cc {
+    background-color: #454545 !important;
+}
+
+/* google apps drop down background */
+.gb_ia.gb_ba, .gb_ia.gb_ca, .gb_Z, .gb_Z *, .gb_ja.gb_Rf, .gb_ka.gb_Mf, .gb_ga.gb_fa.gb_za.gb_g.gb_ha.gb_ma {
+    background-color: #393939 !important;
+}
+
+/* "even more from google", "more" */
+a.gb_ka.gb_Mf, a.gb_ja.gb_Rf {
+    color: white !important;
+}
+
+/* google apps name */
+span.gb_3 {
+    color: white !important;
+}
+
+/* url link */
+cite._Rm {
+    color: darkgreen !important;
+}
+
+/* google translate box */
+#tw-container.vk_c, #tw-container.vk_c * {
+    background-color: #454545 !important;
+}
+.tw-bilingual-pos.vk_dgy {
+    color: white !important;
+}
+#tw-ob > div.tw-swapa > div {
+    background-color: white !important;
+}
+
+/* "translate to" dropdown */
+#tl_select, #tl_select * {
+    background-color: #454545 !important;
+    color: white !important;
+}
+
+/* dictionary iframe */
+#dw-siw > input, .dw-sb-btn, .dw-sb-btn * {
+    background-color: #454545 !important;
+}
+
+/* youtube iframe */
+span._JWc {
+    background-color: transparent !important;
+}
+
+/* "showtimes at" */
+.vk_bk.lr_c_h {
+    color: white !important;
+}
+
+/* movie's title */
+.lr_c_fcb > .lr_c_tmt > a {
+    color: #81b8ed !important;
+}
+
+.lr_c_fcb > .lr_c_tmt > a:visited {
+    color: #b4b7ff !important;
+}
+
+/* "result from 'x'" */
+#nqsbq {
+    background-color: #454545 !important;
+}
+
+/* "result from ..." search button */
+button.ab_button {
+    background: #454545 none !important;
+}
+
+button.ab_button > span {
+    background-color: transparent !important;
+}
+
+button.ab_button > span > img {
+    filter: invert(100%);
+}
+
+/* accounts drop down */
+#gbw > div > div > div.gb_Ac.gb_Dg.gb_R > div.gb_hb.gb_5c.gb_Dg.gb_R.gb_g > div.gb_rb.gb_fa.gb_g,
+#gbw > div > div > div.gb_Ac.gb_Dg.gb_R > div.gb_hb.gb_5c.gb_Dg.gb_R.gb_g > div.gb_rb.gb_fa.gb_g * {
+    background-color: #393939 !important;
+}
+
+/* accounts drop down hover */
+#gbw > div > div > div.gb_Ac.gb_Dg.gb_R > div.gb_hb.gb_5c.gb_Dg.gb_R.gb_g > div.gb_rb.gb_fa.gb_g > div.gb_Jb > div > *:hover,
+#gbw > div > div > div.gb_Ac.gb_Dg.gb_R > div.gb_hb.gb_5c.gb_Dg.gb_R.gb_g > div.gb_rb.gb_fa.gb_g > div.gb_Jb > div > *:hover *{
+    background-color: #121212 !important;
+}
+
+/* zoom button on top right of map */
+div.gws-local-map__map-expando.duf-h {
+    background-color: transparent !important;
+}
+
+/* products ads on the right */
+#rhs_block > div.cu-container, #rhs_block > div.cu-container * {
+    background-color: #454545 !important;
+}
+
+/* title of products ads on the right */
+div.jackpot-title-ratings-container.rhsl4 * {
+    background-color: transparent !important;
+}
+
+/* radio buttons */
+._zss {
+    color: white !important;
+}
+
+/*********** SHOPPING ***********/
+
+/* product's div */
+div.sh-dgr__grid-result, div.sh-dgr__grid-result *,
+div.sh-pr__product-results, div.sh-pr__product-results *,
+div.mnr-c.pla-unit, div.mnr-c.pla-unit * {
+    background-color: #454545 !important;
+}
+
+/* next/previous product arrow button */
+#uid_IBxDWsuRFcaojwSitKGYCg_0 > * > g-fab._jAg_uqh {
+    background-color: transparent !important;
+}

@@ -1,0 +1,19 @@
+/* header */
+#mw-head, #mw-head * {
+    background-color: #2B2B2B !important;
+}
+
+#simpleSearch, #simpleSearch * {
+    background-color: #393939 !important;
+}
+
+.suggestions-results, .suggestions-results *, .suggestions-special, .suggestions-special * {
+    background-color: #393939 !important;
+}
+
+/* search results on selection */
+.suggestions-result-current, .suggestions-result-current * {
+    background-color: #121212 !important;
+}
+
+/* logo */

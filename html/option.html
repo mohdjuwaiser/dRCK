@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:visibility="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <title>DarkChroma</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css"
+              integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb"
+              crossorigin="anonymous">
+        <link rel="stylesheet" type="text/css" href="../css/options_page.css">
+        <link rel="stylesheet" type="text/css" href="../css/popup.css">
+        <link rel="stylesheet" type="text/css" href="../css/optimized/google.css">
+
+        <script src="../script/jquery-min.js"></script>
+        <script src="../script/options.js"></script>
+        <script src="../script/popup.js"></script>
+    </head>
+    <body>
+        <div class="container">
+            <h2 id="title">Settings</h2>
+            <hr>
+            <div>
+                <p>Theme:</p>
+                <div class="row">
+                    <div class="radio-btn" id="onBtn">
+                        <img src="../assets/images/theme_selection/whiteTick.png" class="tick" id="on">
+                    </div>
+                    <div class="radio-btn" id="offBtn">
+                        <img src="../assets/images/theme_selection/blackTick.png" class="tick" id="off">
+                    </div>
+                </div>
+                <br>
+                <p>Exclude sites:</p>
+                <textarea id="excludeInput"
+                          placeholder="Enter name of the site that you want to exclude, separated by comma. Example: facebook, google."></textarea>
+            </div>
+            <br>
+            <button type="submit" class="btn btn-primary" id="updateExcludeButton">Submit</button>
+            <br>
+            <br>
+            <div class="alert alert-success" id="submitAlert">
+                Successfully update new list!
+            </div>
+        </div>
+    </body>
+</html>

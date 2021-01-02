@@ -1,0 +1,149 @@
+/****** youtube home page ******/
+
+body, body * {
+    background-color: transparent !important;
+}
+
+/* top bars */
+#masthead, #masthead > #container, #masthead > #container *, #masthead > #container > #end, #masthead > #container > #end * {
+    background-color: #121212 !important;
+    opacity: unset !important;
+}
+
+/* search bar */
+/*#search-form, #search-form > div, #search-form > div *, #search-icon-legacy, #search-icon-legacy > * {*/
+    /*background-color: #454545 !important;*/
+/*}*/
+
+/* search result drop down */
+.gssb_e {
+    background-color: #393939 !important;
+}
+
+/* search result drop down select */
+.gssb_i, .gssb_i * {
+    background-color: #121212 !important;
+}
+
+/* main page*/
+#page-manager > ytd-browse, #masthead-ad, #masthead-ad * {
+    background-color: #2B2B2B !important;
+}
+
+/*#guide-icon {*/
+    /*position: fixed !important;*/
+    /*!*z-index: -1 !important;*!*/
+/*}*/
+
+/* side bar under hamburger icon*/
+#guide-inner-content, #guide-inner-content * {
+    background-color: #454545 !important;
+}
+
+/* side bar under hamburger icon on select */
+#sections > ytd-guide-section-renderer > #items > ytd-guide-entry-renderer:hover * {
+    background-color: #121212 !important;
+}
+
+/* extra area when open the hamburger side menu */
+#content, #content *, #scrim, #scrim * {
+    background-color: transparent !important;
+}
+
+/* title and channel text */
+a.yt-ui-ellipsis.yt-ui-ellipsis-2.yt-uix-sessionlink.spf-link, a.yt-uix-sessionlink.spf-link {
+    color: #81b8ed !important;
+}
+
+/* title and channel text visited */
+a.yt-ui-ellipsis.yt-ui-ellipsis-2.yt-uix-sessionlink.spf-link:visited, a.yt-uix-sessionlink.spf-link:visited {
+    color: #b4b7ff !important;
+}
+
+/* subscribe button */
+#subscribe-button > ytd-subscribe-button-renderer > paper-button > yt-formatted-string,
+#subscribe-button > ytd-subscribe-button-renderer > paper-button > yt-formatted-string > span {
+    background-color: transparent !important;
+    color: white !important;
+}
+
+/* accounts drop down (not working yet) */
+#sections.style-scope.ytd-multi-page-menu-renderer > yt-multi-page-menu-section-renderer > #items,
+#sections.style-scope.ytd-multi-page-menu-renderer > yt-multi-page-menu-section-renderer > #items *{
+    background-color: #2B2B2B !important;
+}
+
+/* accounts drop down on select (not working yet) */
+#yt-masthead-multilogin > a:hover, #yt-masthead-multilogin > a:hover * {
+    background-color: #121212 !important;
+}
+
+/* notification hover (not tested yet) */
+#yt-masthead-notifications-content > ol > li:hover * {
+    background-color: #121212 !important;
+}
+
+/****** youtube video page ******/
+
+/* comment wrapper*/
+/*#main {*/
+    /*background-color: #393939 !important;*/
+/*}*/
+
+/* comment input */
+#placeholder-area, #placeholder-area *, #textarea, #textarea * {
+    background-color: #454545 !important;
+}
+
+/* comment body */
+#watch7-main, #watch7-main * {
+    background-color: #2B2B2B !important;
+}
+
+#related, #related * {
+    background-color: #2B2B2B !important;
+}
+
+/* cancel/comment button */
+#buttons > *, #buttons > * > * {
+    background-color: #454545 !important;
+    color: white !important;
+}
+
+/* report/ open transcript/ add translation */
+#contentWrapper > ytd-menu-popup-renderer > #items * {
+    background-color: #2B2B2B !important;
+}
+
+/* report/ open transcript/ add translation on select */
+#contentWrapper > ytd-menu-popup-renderer > #items > div > *:hover *,
+#contentWrapper > ytd-menu-popup-renderer > #items > div > * *:hover *{
+    background-color: #454545 !important;
+}
+
+/* autoplay button */
+#toggleBar, #toggleButton, #toggleButton * {
+    background-color: #454545 !important;
+}
+
+/* share menu */
+#contentWrapper > yt-sharing-renderer, #contentWrapper > yt-sharing-renderer * {
+    background-color: #454545 !important;
+}
+
+/****** youtube channel ******/
+
+/* banner setting icon */
+#c4-header-bg-container > span {
+    background-color: transparent !important;
+}
+
+/* "what to watch next" edit button */
+#c4-welcome-editor > div.yt-uix-inlineedit-view-container > div > div.c4-module-editor-actions > button {
+    background-color: #454545 !important;
+}
+
+/* related channel enable/disable button */
+#related-channels-sidebar > div > form > div > div > button, #related-channels-sidebar > div > form > div > div > button > * {
+    background-color: #454545 !important;
+}

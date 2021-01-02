@@ -1,0 +1,10 @@
+A lot of extensions that change Chrome to dark theme use simple invert function to simply invert everything on the page. For most website, this is ok since they are black text on white background. But these extensions do not work well for pages that are naturally white-on-black. What's worse, some of these extensions even invert the color of images (because they simply invert EVERYTHING), leaving the page look ugly. DarkChroma solves all of these issues.
+
+Support most websites with beautiful dark theme.
+
+Optimized for Google, Google Support, Wikipedia. All other websites, depends on their design, may have some transparent element on top of each other. I am trying my best to optimize as many websites as possible, but it is impossible to fit all sites.
+
+NOTE: YouTube now has its own dark theme. User can turn it on via YouTube setting.
+
+-------------------------
+

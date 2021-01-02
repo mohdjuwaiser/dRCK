@@ -1,0 +1,64 @@
+/* search bar */
+#gs_hdr_tsi {
+    background-color: #454545 !important;
+}
+
+#gs_hdr_tsb * {
+    background-color: transparent !important;
+}
+
+/* result drop down */
+#gs_hdr_frm_ac > div > ul, #gs_hdr_frm_ac > div > ul > li {
+    background-color: #393939 !important;
+}
+
+#gs_hdr_frm_ac > div > ul > li > b {
+    background-color: transparent !important;
+}
+
+/* result drop down on select */
+#gs_hdr_frm_ac > div > ul > li.gs_sel {
+    background-color: #121212 !important;
+}
+
+/* article check box left side */
+span.gs_cb_wr > span.gs_chk, span.gs_cb_wr > span.gs_cbx, #gs_bdy_sb_ca > span.gs_ico {
+    background-color: white !important;
+}
+
+/* hamburger icon menu */
+#gs_hdr_drw_in > div:nth-child(2) > div.gs_hdr_drw_sec > *:hover,
+#gs_hdr_drw_in > div:nth-child(2) > div.gs_hdr_drw_sec > *:hover *{
+    background-color: #121212 !important;
+}
+
+#gs_amr-b > span, #gs_amr-bl, #gs_alerts_buttons > button:nth-child(1) > span, #gs_alerts_buttons > button:nth-child(1) > span > span, #gs_alerts_buttons > button.gs_btn_cre.gs_btn_lsb.gs_btn_lsu > span, #gs_alerts_buttons > button.gs_btn_cre.gs_btn_lsb.gs_btn_lsu > span > span {
+    background-color: transparent !important;
+}
+
+#gs_amr-bl, #gs_alerts_buttons > button:nth-child(1) > span, #gs_alerts_buttons > button.gs_btn_cre.gs_btn_lsb.gs_btn_lsu > span, #gs_alerts_buttons > button:nth-child(1) > span > span, #gs_alerts_buttons > button.gs_btn_cre.gs_btn_lsb.gs_btn_lsu > span > span {
+    color: black !important;
+}
+
+/* setting */
+#gs_bdy_sb, #gs_bdy_sb * {
+    background-color: transparent !important;
+}
+
+input[type=radio] {
+    background-color: #454545 !important;
+}
+
+input[type=radio]:checked {
+    background-color: white !important;
+}
+
+input[type='checkbox']:focus {
+    background-color: white !important;
+}
+
+/* result page arrows */
+span.gs_wr, span.gs_wr * {
+    background-color: transparent !important;
+    color: black !important;
+}

@@ -1,0 +1,34 @@
+* {
+    background-color: #2B2B2B !important;
+    color: white !important;
+}
+
+select:active, select:hover {
+    outline-color: #333333 !important;
+}
+
+a {
+    color: #81b8ed !important;
+}
+
+a:visited {
+    color: #b4b7ff !important;
+}
+
+input::placeholder {
+    color: white !important;
+}
+
+p, h1, h2, h3, h4, h5, h6, * text {
+    color: lightgray !important;
+}
+
+img, image {
+    background-color: transparent !important;
+    color: transparent !important;
+}
+
+hr {
+    font-weight: bold !important;
+    color: white !important;
+}

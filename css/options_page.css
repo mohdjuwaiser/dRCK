@@ -1,0 +1,13 @@
+body {
+    margin: 20px 50px !important;
+}
+
+#excludeInput {
+    width: 500px;
+    height: 125px;
+}
+
+#submitAlert {
+    width: 500px;
+    display:none;
+}
